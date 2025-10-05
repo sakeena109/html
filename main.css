@@ -1,7 +1,16 @@
 html{
-            font-size: 23px;
-        }
-        body{
-            background: #2e2d2d;
-            color: whitesmoke;
-        }
+    font-size: 23px;
+    }
+body{
+    background: #2e2d2d;
+    color: whitesmoke;
+    }
+a{
+    color: palevioletred;
+}
+h1{
+    color: aqua;
+}
+h2{
+    color:moccasin;
+}
