@@ -17,3 +17,8 @@ h2{
 h3{
     color: deeppink;
 }
+table,tr,td,th{
+    border: 2px solid #eee;
+    border-collapse:collapse;
+    padding:0.5rem;
+}
